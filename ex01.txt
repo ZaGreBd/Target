@@ -1,0 +1,3 @@
+O resultado é 91, como o 1 é somado em 'k' antes de 'k' ser somado em 'soma',
+é permitido que chegue até 91, afinal, 'k' chegará para a verificação com valor
+em 12, o ciclo continuará, 'k' passará a ser 13 e posteriormente será somado ao resultado final.
